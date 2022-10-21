@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">About me</h2>
 
-golang
+```golang
 package main
 
 import (
@@ -43,7 +43,7 @@ func GetBio() Bio {
 		"- 📫 How to reach me:":              "https://github.com/v-thaian",
 	}
 }
-
+```
 
 <h2 align="center">You can reach me at :sunflower:</h2>
 
