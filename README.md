@@ -68,18 +68,15 @@ func GetBio() Bio {
   <a href="https://www.youtube.com/channel/UCOlBvqgwtvFgYTIqJX_dLUQ">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="An's YouTube Channel" height="30" width="30">
   </a>
-  
-  <a href="https://www.instagram.com/give_mev/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="An's Instagram Profile" height="30" width="30">
-  </a>
+
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 
-<!-- <h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=v-thaian&hide=contribs,prs" alt="AnhellO :: Profile Stats" /></p> 
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
